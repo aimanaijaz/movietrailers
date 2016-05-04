@@ -1,4 +1,5 @@
 Movie Trailer Website
+
 This is the first project in the Fullstack Nanodegree program. 
 
 How to run
