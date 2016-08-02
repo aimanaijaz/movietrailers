@@ -1,6 +1,7 @@
 ##Movie Trailer Website
 
 This is the first project in the Fullstack Nanodegree program. 
+You can view this website here - http://aimanaijaz.github.io/movietrailers/
 
 ##How to run
 - Download and install Python
